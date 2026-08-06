@@ -2,7 +2,7 @@
   "name": "Sistem Quotation - NTT TEGUH RESOURCES",
   "short_name": "NTT TEGUH",
   "description": "Sistem Quotation, DO, Invoice & PO untuk NTT TEGUH RESOURCES",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
